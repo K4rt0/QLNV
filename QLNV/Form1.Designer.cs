@@ -235,7 +235,7 @@
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.dgvStaff);
 			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Text = "Quản Lý Nhân Viên";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			((System.ComponentModel.ISupportInitialize)(this.dgvStaff)).EndInit();
 			this.ResumeLayout(false);
