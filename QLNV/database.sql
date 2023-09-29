@@ -2,11 +2,13 @@
 GO
 USE QLNV;
 GO
+DROP TABLE IF EXISTS PhongBan;
 CREATE TABLE PhongBan (
   MaPB CHAR(2) NOT NULL PRIMARY KEY,
   TenPB NVARCHAR(30)
 )
 GO
+DROP TABLE IF EXISTS NhanVien;
 CREATE TABLE NhanVien (
   MaNV CHAR(6) NOT NULL PRIMARY KEY,
   TenNV NVARCHAR(20),
@@ -30,10 +32,10 @@ INSERT INTO PhongBan (MaPB, TenPB) VALUES ('P5', N'Kỹ thuật')
 GO
 INSERT INTO PhongBan (MaPB, TenPB) VALUES ('P6', N'Chăm sóc khách hàng')
 GO
-INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV01', N'Dương Khoa Nam', '11/11/2003', 'P1')
+INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV0001', N'Dương Khoa Nam', '11/11/2003', 'P1')
 GO
-INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV02', N'Trần Văn Toàn', '23/12/2003', 'P2')
+INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV0002', N'Trần Văn Toàn', '23/12/2003', 'P2')
 GO
-INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV03', N'Ngô Thái Hoàn', '11/11/2003', 'P3')
+INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV0003', N'Ngô Thái Hoàn', '11/11/2003', 'P3')
 GO
-INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV04', N'Phạm Huỳnh Ngọc Hiếu', '10/09/2003', 'P4')
+INSERT INTO NhanVien (MaNV, TenNV, NgaySinh, MaPB) VALUES ('NV0004', N'Phạm Huỳnh Ngọc Hiếu', '10/09/2003', 'P4')
