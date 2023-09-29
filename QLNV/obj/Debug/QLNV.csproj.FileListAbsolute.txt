@@ -1,0 +1,15 @@
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\K4rt0\Desktop\WindowsProgram\QLNV\QLNV\obj\Debug\QLNV.pdb
